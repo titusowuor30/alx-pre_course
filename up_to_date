@@ -1,1 +1,4 @@
 git pull origin master
+git add --all
+git commit -m "how to be up to date in git"
+git push -u origin master
